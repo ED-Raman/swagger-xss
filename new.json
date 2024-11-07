@@ -1,8 +1,8 @@
 {
-    "url": "ok.yaml",
+    "url": "https://raw.githubusercontent.com/RamanMG/swagger-xss/refs/heads/main/ok.yaml",
     "urls": [
         {
-            "url": "ok.yaml",
+            "url": "https://raw.githubusercontent.com/RamanMG/swagger-xss/refs/heads/main/ok.yaml",
             "name": "Foo"
         }
     ]
